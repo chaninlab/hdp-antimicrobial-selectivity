@@ -1,0 +1,10 @@
+python Paeruginosa_nestimator100.py
+python Paeruginosa_nestimator200.py
+python Paeruginosa_nestimator300.py
+python Paeruginosa_nestimator400.py
+python Paeruginosa_nestimator500.py
+python Paeruginosa_nestimator600.py
+python Paeruginosa_nestimator700.py
+python Paeruginosa_nestimator800.py
+python Paeruginosa_nestimator900.py
+python Paeruginosa_nestimator1000.py

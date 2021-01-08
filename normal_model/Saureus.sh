@@ -1,0 +1,10 @@
+python Saureus_nestimator100.py
+python Saureus_nestimator200.py
+python Saureus_nestimator300.py
+python Saureus_nestimator400.py
+python Saureus_nestimator500.py
+python Saureus_nestimator600.py
+python Saureus_nestimator700.py
+python Saureus_nestimator800.py
+python Saureus_nestimator900.py
+python Saureus_nestimator1000.py
