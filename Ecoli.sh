@@ -1,0 +1,10 @@
+python Ecoli_nestimator100.py
+python Ecoli_nestimator200.py
+python Ecoli_nestimator300.py
+python Ecoli_nestimator400.py
+python Ecoli_nestimator500.py
+python Ecoli_nestimator600.py
+python Ecoli_nestimator700.py
+python Ecoli_nestimator800.py
+python Ecoli_nestimator900.py
+python Ecoli_nestimator1000.py
